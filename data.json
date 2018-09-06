@@ -36,6 +36,14 @@
         "6"
       ],
       "id": 1
+    },
+    {
+      "name": "Hallelujah!",
+      "ingredients": [
+        "2",
+        "5"
+      ],
+      "id": 3
     }
   ]
 }
